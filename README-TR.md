@@ -27,11 +27,12 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhaba! 👋 Ben **Siber Güvenlik** (özellikle Firewall teknolojileri ve Saldırı Güvenliği) ve **Web Geliştirme** alanlarında kendini geliştiren bir öğrenciyim.
+Merhaba! 👋 Ben **İstinye Üniversitesi Siber Güvenlik** bölümü öğrencisiyim. Akademik eğitimim devam ederken, **Laykon Bilişim** bünyesinde **Bitdefender** ürünleri için teknik destek sağlıyor; uç nokta güvenliği ve tehdit giderme konularında gerçek saha tecrübesi kazanıyorum.
 
-- 🔭 **Şu Anki Projem:** `Auth Session Security Analyzer` (Oturum güvenlik açıklarını analiz eden Python tabanlı CLI aracı).
-- 🎯 **Kariyer Hedefim:** Ağ güvenliği alanında (Palo Alto & Fortinet ürünleri) uzmanlaşarak global projelerde yer almak.
-- ⚡ **Öğrenmeye Devam:** CompTIA Network+, OSINT teknikleri.
+- 🎓 **Eğitim:** **İstinye Üniversitesi** - Siber Güvenlik.
+- 🛡️ **Şu Anki Rol:** **Laykon Bilişim**'de Teknik Destek (Bitdefender).
+- 🔭 **Proje:** `Auth Session Security Analyzer` (Python CLI aracı) geliştiriyorum.
+- 🎯 **Hedef:** Ağ güvenliği alanında (Palo Alto & Fortinet) uzmanlaşmak.
 ---
 
 ### ⚡ Learning Progress
