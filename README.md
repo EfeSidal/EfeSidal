@@ -1,74 +1,62 @@
 <div align="center">
 
-# Hi there, I'm Efe Sidal! 👋
+  <a href="./README-TR.md">
+    <img src="https://img.shields.io/badge/🇹🇷_Türkçe_Versiyon-Click_Here-crimson?style=for-the-badge" alt="Türkçe Versiyon"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/efesidal/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:sidalefe2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+  <br><br>
 
-<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Efe%20Sidal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  
+  <h3>
+    <span style="color:#42d392">Cyber Security Enthusiast</span> 
+    <span style="color:#64748b">|</span> 
+    <span style="color:#3b82f6">Web Developer</span>
+  </h3>
 
-<a href="#eng">
-  <img src="https://img.shields.io/badge/Language-English-blue?style=flat&logo=google-translate&logoColor=white" alt="English"/>
-</a>
-&nbsp;
-<a href="#tr">
-  <img src="https://img.shields.io/badge/Dil-Türkçe-red?style=flat&logo=google-translate&logoColor=white" alt="Türkçe"/>
-</a>
+  <a href="https://www.linkedin.com/in/efesidal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sidalefe2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
----
+<br>
 
-<div id="eng"></div>
+### 👨‍💻 About Me
 
-### 🇬🇧 About Me
-**Cyber Security Enthusiast | Web Developer | Student**
+Hi there! 👋 I am a student passionately developing skills in **Cyber Security** (focusing on Firewall technologies & Offensive Security) and **Web Development**.
 
-Welcome! I am developing my skills in **Cyber Security** (Firewalls, Offensive Security) and **Web Development**.
-
-* 🔭 **Current Focus:** `Auth Session Security Analyzer` (Python CLI Tool)
-* 🎯 **Career Goal:** Expert in Network Security (Palo Alto & Fortinet)
-* ⚡ **Learning:** CompTIA Network+, OSINT Techniques.
-
-<div align="right">
-  <a href="#top">⬆️ Back to Top</a>
-</div>
-
----
-
-<div id="tr"></div>
-
-### 🇹🇷 Hakkımda
-**Siber Güvenlik Meraklısı | Web Geliştirici | Öğrenci**
-
-Hoş geldiniz! Siber güvenlik (özellikle Firewall teknolojileri ve Saldırı Güvenliği) ve web geliştirme alanlarında kendimi geliştiren bir öğrenciyim.
-
-* 🔭 **Şu anki Odak:** `Auth Session Security Analyzer` (Python CLI Aracı)
-* 🎯 **Kariyer Hedefi:** Ağ güvenliği alanında (Palo Alto & Fortinet) uzmanlaşmak.
-* ⚡ **Öğrenmeye Devam:** CompTIA Network+, OSINT Teknikleri.
-
-<div align="right">
-  <a href="#top">⬆️ Başa Dön</a>
-</div>
+- 🔭 **Current Project:** `Auth Session Security Analyzer` (A Python-based CLI tool for session vulnerability analysis).
+- 🎯 **Career Goal:** To become an expert in Network Security (specializing in Palo Alto & Fortinet products).
+- ⚡ **Currently Learning:** CompTIA Network+, OSINT methodologies.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%2B-CompTIA-blue?style=flat" />
-  <img src="https://img.shields.io/badge/OSINT-Security-red?style=flat" />
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%2B-CompTIA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT-Security-red?style=for-the-badge" />
+
 </div>
 
 <br>
 
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfeSidal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EfeSidal&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeSidal&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <sub><i>"Security is not a product, but a process."</i></sub>
 </div>
