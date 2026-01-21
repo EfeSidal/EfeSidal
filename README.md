@@ -2,44 +2,73 @@
 
 # Hi there, I'm Efe Sidal! 👋
 
-[🇹🇷 Türkçe](#-merhaba-ben-efe-sidal) | [🇬🇧 English](#-hi-there-im-efe-sidal)
+<a href="https://www.linkedin.com/in/efesidal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:sidalefe2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<br><br>
+
+<a href="#eng">
+  <img src="https://img.shields.io/badge/Language-English-blue?style=flat&logo=google-translate&logoColor=white" alt="English"/>
+</a>
+&nbsp;
+<a href="#tr">
+  <img src="https://img.shields.io/badge/Dil-Türkçe-red?style=flat&logo=google-translate&logoColor=white" alt="Türkçe"/>
+</a>
 
 </div>
 
 ---
 
-### <a id="english"></a> 🇬🇧 About Me
+<div id="eng"></div>
 
+### 🇬🇧 About Me
 **Cyber Security Enthusiast | Web Developer | Student**
 
-Welcome to my profile! This repository hosts the source code for my personal portfolio website and serves as an overview of my work. I am developing my skills in Cyber Security (specifically Firewall technologies and Offensive Security) and Web Development.
+Welcome! I am developing my skills in **Cyber Security** (Firewalls, Offensive Security) and **Web Development**.
 
-🔭 **Current Focus:**
-* **Auth Session Security Analyzer:** A Python-based CLI tool to analyze session management vulnerabilities.
+* 🔭 **Current Focus:** `Auth Session Security Analyzer` (Python CLI Tool)
+* 🎯 **Career Goal:** Expert in Network Security (Palo Alto & Fortinet)
+* ⚡ **Learning:** CompTIA Network+, OSINT Techniques.
 
-🌱 **Learning:**
-* **Cyber Security:** Palo Alto & Fortinet Firewalls, OSINT techniques, CompTIA Network+.
-* **Web Development:** HTML5, CSS3, Modern Web Tech.
-
-📫 **Contact:** [https://www.linkedin.com/in/efesidal/] | [sidalefe2005@gmail.com]
+<div align="right">
+  <a href="#top">⬆️ Back to Top</a>
+</div>
 
 ---
 
-### <a id="turkish"></a> 🇹🇷 Merhaba, Ben Efe Sidal!
+<div id="tr"></div>
 
+### 🇹🇷 Hakkımda
 **Siber Güvenlik Meraklısı | Web Geliştirici | Öğrenci**
 
-Hoş geldiniz! Bu repo, hem kişisel portföy web sitemin kaynak kodlarını barındırmakta hem de benim hakkımda genel bir özet sunmaktadır. Siber güvenlik (özellikle Firewall teknolojileri ve Offensive Security) ve web geliştirme alanlarında kendimi geliştiriyorum.
+Hoş geldiniz! Siber güvenlik (özellikle Firewall teknolojileri ve Saldırı Güvenliği) ve web geliştirme alanlarında kendimi geliştiren bir öğrenciyim.
 
-🔭 **Şu an üzerinde çalıştığım proje:**
-* **Auth Session Security Analyzer:** Web uygulamalarındaki oturum yönetimi açıklarını analiz eden Python tabanlı bir CLI aracı.
+* 🔭 **Şu anki Odak:** `Auth Session Security Analyzer` (Python CLI Aracı)
+* 🎯 **Kariyer Hedefi:** Ağ güvenliği alanında (Palo Alto & Fortinet) uzmanlaşmak.
+* ⚡ **Öğrenmeye Devam:** CompTIA Network+, OSINT Teknikleri.
 
-🌱 **Öğrenmeye devam ettiklerim:**
-* **Siber Güvenlik:** Palo Alto & Fortinet Firewall, OSINT teknikleri, CompTIA Network+.
-* **Web Geliştirme:** HTML5, CSS3, Modern Web Teknolojileri.
+<div align="right">
+  <a href="#top">⬆️ Başa Dön</a>
+</div>
 
-📫 **İletişim:** [https://www.linkedin.com/in/efesidal/] | [sidalefe2005@gmail.com]
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfeSidal&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%2B-CompTIA-blue?style=flat" />
+  <img src="https://img.shields.io/badge/OSINT-Security-red?style=flat" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EfeSidal&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
 </div>
