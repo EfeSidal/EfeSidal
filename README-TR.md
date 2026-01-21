@@ -36,7 +36,7 @@ Merhaba! 👋 Ben **Siber Güvenlik** (özellikle Firewall teknolojileri ve Sald
 
 ### ⚡ Learning Progress
 
-| Konu (Topic) | Durum (Status) | Seviye (Level) |
+| Konu  | Durum  | Seviye |
 |:---:|:---:|:---:|
 | **Python** | ![20%](https://geps.dev/progress/20) | 🌱 Temelleri Öğreniyor |
 | **Web (HTML/CSS)** | ![35%](https://geps.dev/progress/35) | 🧱 Yapı Kuruyor |
