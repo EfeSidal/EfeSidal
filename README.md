@@ -34,6 +34,15 @@ Hi there! 👋 I am a student passionately developing skills in **Cyber Security
 - ⚡ **Currently Learning:** CompTIA Network+, OSINT methodologies.
 
 ---
+### ⚡ Learning Progress
+
+| Topic | Progress | Status |
+|:---:|:---:|:---:|
+| **Python** | ![20%](https://geps.dev/progress/20) | 🌱 Learning Basics |
+| **Web (HTML/CSS)** | ![35%](https://geps.dev/progress/35) | 🧱 Building Foundation |
+| **Network+** | ![10%](https://geps.dev/progress/10) | 📖 Research Phase |
+| **Cyber Security** | ![5%](https://geps.dev/progress/35) | 🚀 Intermediate |
+---
 
 ### 🛠️ Tech Stack & Tools
 
