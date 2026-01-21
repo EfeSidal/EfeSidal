@@ -27,11 +27,12 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I am a student passionately developing skills in **Cyber Security** (focusing on Firewall technologies & Offensive Security) and **Web Development**.
+Hi there! 👋 I am a **Cyber Security student at İstinye University**, passionately building my career in network defense. Currently, I work at **Laykon Bilişim**, providing technical support for **Bitdefender** solutions and gaining hands-on experience in endpoint security.
 
-- 🔭 **Current Project:** `Auth Session Security Analyzer` (A Python-based CLI tool for session vulnerability analysis).
-- 🎯 **Career Goal:** To become an expert in Network Security (specializing in Palo Alto & Fortinet products).
-- ⚡ **Currently Learning:** CompTIA Network+, OSINT methodologies.
+- 🎓 **Education:** Cyber Security at **İstinye University**.
+- 🛡️ **Current Role:** Technical Support at **Laykon Bilişim** (Bitdefender Distributor).
+- 🔭 **Project:** Developing `Auth Session Security Analyzer` (Python CLI tool).
+- 🎯 **Goal:** To become an expert in Network Security (Palo Alto & Fortinet).
 
 ---
 ### ⚡ Learning Progress
